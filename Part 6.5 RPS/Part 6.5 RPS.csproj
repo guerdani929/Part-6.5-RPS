@@ -92,5 +92,14 @@
   <ItemGroup>
     <None Include="Resources\pasadena-boy-starts-rock-wall-for-painted-rocks-1_large.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\In between.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redmanc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluemanc.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

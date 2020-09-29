@@ -63,6 +63,16 @@ namespace Part_6._5_RPS.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bluemanc {
+            get {
+                object obj = ResourceManager.GetObject("bluemanc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap download {
             get {
                 object obj = ResourceManager.GetObject("download", resourceCulture);
@@ -86,6 +96,16 @@ namespace Part_6._5_RPS.Properties {
         internal static System.Drawing.Bitmap pasadena_boy_starts_rock_wall_for_painted_rocks_1_large {
             get {
                 object obj = ResourceManager.GetObject("pasadena_boy_starts_rock_wall_for_painted_rocks_1_large", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap redmanc {
+            get {
+                object obj = ResourceManager.GetObject("redmanc", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
